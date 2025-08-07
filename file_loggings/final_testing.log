@@ -1,0 +1,5 @@
+2025-07-22 19:52:09,733 - INFO - Logistic Regression prediction: Good Customer
+2025-07-22 19:52:09,766 - INFO - KNN prediction: Bad Customer
+2025-07-22 19:52:09,779 - INFO - Decision Tree prediction: Bad Customer
+2025-07-22 19:52:09,784 - INFO - Naive Bayes prediction: Good Customer
+2025-07-22 19:52:10,479 - INFO - Random Forest prediction: Bad Customer

@@ -1,0 +1,5 @@
+2025-07-22 19:50:14,462 - INFO - Logistic Regression model saved successfully
+2025-07-22 19:50:37,300 - INFO - KNN model saved successfully
+2025-07-22 19:50:40,517 - INFO - Decision Tree model saved successfully
+2025-07-22 19:50:40,642 - INFO - Naive Bayes model saved successfully
+2025-07-22 19:52:09,692 - INFO - Random Forest model saved successfully
